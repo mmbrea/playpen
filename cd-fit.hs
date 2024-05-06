@@ -1,4 +1,3 @@
--- Taken from 'cd-fit-1-1.hs'
 module Main where
 
 main = do input <- getContents
